@@ -1,0 +1,7 @@
+token_url ~ 
+content-type ~ application/x-www-form-urlencoded
+authorization ~ 
+cookie ~ X-Contour-Session-Affinity="abd2f0b"
+data_url ~ https://www.allht.com/s/alt/dw/shop/v2_0/orderr_sch?client_id=06d-ae-4d-aa-e000ffe
+S3PATH ~ 
+OUT_FILE_LOC ~ 
