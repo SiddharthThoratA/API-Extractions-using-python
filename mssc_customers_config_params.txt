@@ -1,0 +1,7 @@
+token_url ~ https://account.demandwardw/ocstoken?_tyeclient_credentia
+content-type ~ application/x-www-form-urlencoded
+authorization ~ MDc2NmZkM2QtOD
+cookie ~ X-Conto-sion-Ainity="ab8b4ea38b"
+data_url ~ "htt://www.alcm/s//d/data/v21_6/customs/arcusearch?client_id=05d-aa80ff"
+S3PATH ~ 
+OUT_FILE_LOC ~ 
